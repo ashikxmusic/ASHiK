@@ -8,6 +8,7 @@
 http://livetv.akr4m.com:8080/bdtv/restrem/2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s89lLdi.png" group-title="BDiX",Ultra Live 2
+https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-HMEN/master.m3u8?hdnea=exp=1784848838~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=71a1218c18e195a3f99ede2d3fbe4541b78740b2f0b1e7a6c3c7ae663ec28feb
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
