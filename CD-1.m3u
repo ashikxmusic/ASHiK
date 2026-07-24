@@ -90,6 +90,7 @@ https://stream.ottplus.live/live/hum_tv_abr/index.m3u8
 https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9QdSo2n.png" group-title="BDiX",COLORS HD
+http://live.balajibroadband.com:3500/live/144.m3u8
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://madanitv.assadikb.workers.dev/live.php?id=144&e=.m3u8
 http://livetv.akr4m.com:8080/bdtv/restrem/60.m3u8
