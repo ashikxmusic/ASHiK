@@ -137,6 +137,7 @@ https://madanitv.assadikb.workers.dev/live.php?id=697&e=.m3u8
 https://flussonic.defineatoz.com/StarjalshaHD/index.m3u8
 https://live.shamim-iptv.workers.dev/STARJOLSHAHD.m3u8
 http://livetv.akr4m.com:8080/bdtv/restrem/33.m3u8
+http://162.4.112.81/STAR-JALSHA-HD/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sLGbOiN.png" group-title="BDiX",COLORS BANGLA
 https://live.shamim-iptv.workers.dev/COLORSBANGLAHD.m3u8
@@ -153,6 +154,7 @@ https://cdn.jsdelivr.net/gh/nurmd2006/empty@main/stream/by/your-abbu/nurmd2006/o
 http://103.89.248.130:8082/zee-bangla/tracks-v1a1/mono.m3u8
 https://stream.ottplus.live/live/zee_bangla_abr/index.m3u8
 http://livetv.akr4m.com:8080/bdtv/restrem/35.m3u8
+http://162.4.112.81/ZEE-BANGLA-HD/index.mpd
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qP2gZ5r.png" group-title="BDiX",ENTAR 10 BANGLA
 https://flussonic.defineatoz.com/Enterr10bangla/tracks-v1a1/mono.m3u8
