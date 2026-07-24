@@ -49,6 +49,7 @@ https://stream.ottplus.live/live/max_2_abr/index.m3u8
 https://playyonogames.in/sliv/stream.m3u8?id=1000044878|referer=https://playyonogames.in/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xKxZdN0.png" group-title="BDiX",GOLDMINES
+http://162.4.112.81/MOHON-TV-Movies/index.m3u8
 http://103.175.73.12:8080/live/53/53_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2ISQ4oJ.png" group-title="BDiX",SONY MAX SD
@@ -56,6 +57,7 @@ https://stream.ottplus.live/live/sony_max_sd_abr/index.m3u8
 https://playyonogames.in/sliv/stream.m3u8?id=1000009249|referer=https://playyonogames.in/
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DxPzIxt.png" group-title="BDiX",GOLDMINES MOVIES
+http://162.4.112.81/MOHON-TV-Movies/index.m3u8
 http://103.175.73.12:8080/live/51/51_0.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NqiLKMZ.png" group-title="BDiX",Z BOLLYWOOD
@@ -170,6 +172,7 @@ http://livetv.akr4m.com:8080/bdtv/restrem/52.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EnTcyB0.png" group-title="BDiX",JALSHA MOVIES
 http://livetv.akr4m.com:8080/bdtv/restrem/27.m3u8
+http://162.4.112.81/JALSHA-MOVIES-HD/index.mpd
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://madanitv.assadikb.workers.dev/live.php?id=1120&e=.m3u8
  
