@@ -29,6 +29,9 @@ https://stream.ottplus.live/live/max_hd_abr/index.m3u8
 https://playyonogames.in/sliv/stream.m3u8?id=1000009247|referer=https://playyonogames.in/
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OhPltnP.png" group-title="BDiX",ZEE CINEMA HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=43513b13f4b542e39c9265921dfc1726:b0b2678bcd274c37b888a6c987d502ed
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd
 http://livetv.akr4m.com:8080/bdtv/restrem/63.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/mono.m3u8
 https://stream.ottplus.live/live/zee_cinema_hd_abr/index.m3u8
