@@ -188,8 +188,8 @@ http://livetv.akr4m.com:8080/bdtv/restrem/12.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BzaWLU6.png" group-title="BDiX",EKUSHEY TV
+https://flussonic.defineatoz.com/etv/mono.m3u8
 http://livetv.akr4m.com:8080/bdtv/restrem/21.m3u8
-https://flussonic.defineatoz.com/etv/tracks-v1a1/mono.m3u8
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7ezELnD.png" group-title="BDiX",ATN BANGLA
@@ -386,6 +386,7 @@ https://madanitv.assadikb.workers.dev/live.php?id=573&e=.m3u8
 http://livetv.akr4m.com:8080/bdtv/restrem/51.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9YDwSmH.png" group-title="BDiX",EUROSPORT
+https://flussonic.defineatoz.com/Eurosport/mono.m3u8
 https://stream.ottplus.live/live/euro_sports_hd_abr/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vdph1pr.png" group-title="BDiX",beIN SPORTS
@@ -432,6 +433,7 @@ https://flussonic.defineatoz.com/SonySports1/tracks-v1a1/mono.m3u8
 https://playyonogames.in/sliv/stream.m3u8?id=1000009276|referer=https://playyonogames.in/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eOCOMXh.png" group-title="BDiX",STAR SPORTS
+https://flussonic.defineatoz.com/Starsports1/mono.m3u8
 http://livetv.akr4m.com:8080/bdtv/restrem/39.m3u8
 http://103.151.60.204:881/StarSports1/mono.m3u8
 https://tvsen5.aynascope.net/c9EpzZ6fQBJ3/index.m3u8
@@ -442,5 +444,6 @@ https://starsportshindiii.pages.dev/index.m3u8
 http://103.151.60.204:881/A-Sports/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rnjLW0H.png" group-title="BDiX",PTV
+https://flussonic.defineatoz.com/PTV/mono.m3u8
 http://103.151.60.204:881/PTV/mono.m3u8
 http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
