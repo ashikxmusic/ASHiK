@@ -8,7 +8,6 @@
 http://livetv.akr4m.com:8080/bdtv/restrem/2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s89lLdi.png" group-title="BDiX",Ultra Live 2
-https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-HMEN/master.m3u8?hdnea=exp=1784848838~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=71a1218c18e195a3f99ede2d3fbe4541b78740b2f0b1e7a6c3c7ae663ec28feb
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -17,8 +16,6 @@ https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash-sd/enc/v8g0dlo4
 https://bd-mc-pdlive.fancode.com/mumbai/4246703_english_hls_88f844cf1d98968_1ta-di_h264/720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J9TsgAN.png" group-title="BDiX",Ultra Live 3
-https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
-https://biostartvworld.pages.dev/api/key/aHR0cHM6Ly9zZXJpZWFsZWFndWUuYWthbWFpemVkLm5ldC9obHMvbGl2ZS8yMTA3MTA3L3RhcC1CSy1QU0wtRDEtRS9sZXZlbF8wLm0zdTh8fHx8fHx7fQ/level_1.m3u8
 https://bdixserver.tvhunter.top/ant1001/tracks-v1a1/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w3lMCXK.png" group-title="BDiX",SONY TV
