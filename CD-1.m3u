@@ -22,14 +22,14 @@ https://biostartvworld.pages.dev/api/key/aHR0cHM6Ly9zZXJpZWFsZWFndWUuYWthbWFpemV
 https://bdixserver.tvhunter.top/ant1001/tracks-v1a1/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w3lMCXK.png" group-title="BDiX",SONY TV
-https://playyonogames.in/sliv/stream.m3u8?id=1000009246|referer=https://playyonogames.in/
 https://stream.ottplus.live/live/sony_ent_hd_abr/index.m3u8
+https://playyonogames.in/sliv/stream.m3u8?id=1000009246|referer=https://playyonogames.in/
 http://livetv.akr4m.com:8080/bdtv/restrem/59.m3u8
 https://tvsen5.aynascope.net/Wfn4bVp3dLgA/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2ISQ4oJ.png" group-title="BDiX",SONY MAX HD
-https://playyonogames.in/sliv/stream.m3u8?id=1000009247|referer=https://playyonogames.in/
 https://stream.ottplus.live/live/max_hd_abr/index.m3u8
+https://playyonogames.in/sliv/stream.m3u8?id=1000009247|referer=https://playyonogames.in/
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OhPltnP.png" group-title="BDiX",ZEE CINEMA HD
 http://livetv.akr4m.com:8080/bdtv/restrem/63.m3u8
@@ -45,15 +45,15 @@ https://madanitv.assadikb.workers.dev/live.php?id=1113&e=.m3u8
 http://103.175.73.12:8080/live/43/43_0.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/elkIMYt.jpeg" group-title="BDiX",SONY MAX 2
-https://playyonogames.in/sliv/stream.m3u8?id=1000044878|referer=https://playyonogames.in/
 https://stream.ottplus.live/live/max_2_abr/index.m3u8
+https://playyonogames.in/sliv/stream.m3u8?id=1000044878|referer=https://playyonogames.in/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xKxZdN0.png" group-title="BDiX",GOLDMINES
 http://103.175.73.12:8080/live/53/53_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2ISQ4oJ.png" group-title="BDiX",SONY MAX SD
-https://playyonogames.in/sliv/stream.m3u8?id=1000009249|referer=https://playyonogames.in/
 https://stream.ottplus.live/live/sony_max_sd_abr/index.m3u8
+https://playyonogames.in/sliv/stream.m3u8?id=1000009249|referer=https://playyonogames.in/
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DxPzIxt.png" group-title="BDiX",GOLDMINES MOVIES
 http://103.175.73.12:8080/live/51/51_0.m3u8
@@ -95,8 +95,8 @@ https://madanitv.assadikb.workers.dev/live.php?id=144&e=.m3u8
 http://livetv.akr4m.com:8080/bdtv/restrem/60.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZEZQD5l.png" group-title="BDiX",SONY SAB
-https://playyonogames.in/sliv/stream.m3u8?id=1000009248|referer=https://playyonogames.in/
 https://stream.ottplus.live/live/sub_hd_abr/index.m3u8
+https://playyonogames.in/sliv/stream.m3u8?id=1000009248|referer=https://playyonogames.in/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nTZY25N.png" group-title="BDiX",HUM SITARAY
 https://stream.ottplus.live/live/hum_sitaray_abr/index.m3u8
@@ -127,10 +127,10 @@ http://livetv.akr4m.com:8080/bdtv/restrem/64.m3u8
 http://103.175.73.12:8080/live/274/274_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xcLmgMj.png" group-title="BDiX",SONY AATH
+https://stream.ottplus.live/live/sony_aath_abr/index.m3u8
 https://playyonogames.in/sliv/stream.m3u8?id=1000009255|referer=https://playyonogames.in/
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://madanitv.assadikb.workers.dev/live.php?id=697&e=.m3u8
-https://stream.ottplus.live/live/sony_aath_abr/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2yAxYox.png" group-title="BDiX",STAR JALSHA
 https://flussonic.defineatoz.com/StarjalshaHD/index.m3u8
@@ -171,8 +171,8 @@ http://livetv.akr4m.com:8080/bdtv/restrem/27.m3u8
 https://madanitv.assadikb.workers.dev/live.php?id=1120&e=.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lf75fou.png" group-title="BDiX",ZEE BANGLA CINEMA
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/mono.m3u8
 https://stream.ottplus.live/live/zee_bangla_cinema_abr/index.m3u8
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/mono.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EXSiYsD.png" group-title="BDiX",COLORS BANGLA CINEMA
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
@@ -297,9 +297,9 @@ https://flussonic.defineatoz.com/rongeentv/tracks-v1a1/mono.m3u8
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/min4HlY.png" group-title="BDiX",CARTOON NETWORK
+https://stream.ottplus.live/live/cn_hd_abr/index.m3u8
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://madanitv.assadikb.workers.dev/live.php?id=816&e=.m3u8
-https://stream.ottplus.live/live/cn_hd_abr/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sNi2TiQ.png" group-title="BDiX",NICK
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
@@ -315,14 +315,14 @@ https://madanitv.assadikb.workers.dev/live.php?id=559&e=.m3u8
 https://madanitv.assadikb.workers.dev/live.php?id=554&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qRnRmQs.png" group-title="BDiX",SONY YAY!
-https://playyonogames.in/sliv/stream.m3u8?id=1000001971|referer=https://playyonogames.in/
 https://stream.ottplus.live/live/sony_yay_abr/index.m3u8
+https://playyonogames.in/sliv/stream.m3u8?id=1000001971|referer=https://playyonogames.in/
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SZXa8nf.png" group-title="BDiX",SONY PIX
+https://stream.ottplus.live/live/pix_hd_abr/index.m3u8
 https://playyonogames.in/sliv/stream.m3u8?id=1000009258|referer=https://playyonogames.in/
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://madanitv.assadikb.workers.dev/live.php?id=762&e=.m3u8
-https://stream.ottplus.live/live/pix_hd_abr/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OwpUaAJ.png" group-title="BDiX",CNN
 https://stream.ottplus.live/live/cnn_sd_abr/index.m3u8
@@ -353,24 +353,24 @@ https://tvsen7.aynascope.net/hbo2/index.m3u8
 https://madanitv.assadikb.workers.dev/live.php?id=562&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OF3ClE6.png" group-title="BDiX",BBC EARTH
+https://stream.ottplus.live/live/bbc_earth_hd_abr/index.m3u8
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://madanitv.assadikb.workers.dev/live.php?id=821&e=.m3u8
-https://stream.ottplus.live/live/bbc_earth_hd_abr/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/duB8GKi.png" group-title="BDiX",ANIMAL PLANET
+https://stream.ottplus.live/live/animal_planet_hd_abr/index.m3u8
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://madanitv.assadikb.workers.dev/live.php?id=566&e=.m3u8
-https://stream.ottplus.live/live/animal_planet_hd_abr/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wKtKGbz.png" group-title="BDiX",NATIONAL GEOGRAPHIC
 http://livetv.akr4m.com:8080/bdtv/restrem/50.m3u8
 http://66.102.126.10:8000/play/a01d/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qiGNq52.png" group-title="BDiX",DISCOVERY
+https://stream.ottplus.live/live/discovery_hd_abr/index.m3u8
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://madanitv.assadikb.workers.dev/live.php?id=573&e=.m3u8
 http://livetv.akr4m.com:8080/bdtv/restrem/51.m3u8
-https://stream.ottplus.live/live/discovery_hd_abr/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9YDwSmH.png" group-title="BDiX",EUROSPORT
 https://stream.ottplus.live/live/euro_sports_hd_abr/index.m3u8
@@ -379,7 +379,7 @@ https://stream.ottplus.live/live/euro_sports_hd_abr/index.m3u8
 https://bein-esp-xumo.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v4ofXqI.png" group-title="BDiX",TNT SPORTS
-
+http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6566/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oWpH2DM.png.png" group-title="BDiX",TSN
 https://tvsen7.aynascope.net/tsn2/index.m3u8
