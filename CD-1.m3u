@@ -149,7 +149,7 @@ http://livetv.akr4m.com:8080/bdtv/restrem/34.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hov3NXM.png" group-title="BDiX",ZEE BANGLA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1df83e058b864da896c9288eef63b113:fc32f26239054b56aab48225305598fe
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla/default/manifest.mpd
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd/default/manifest.mpd
 http://27.124.71.27/Zee_Bangla/index.m3u8
 https://cdn.jsdelivr.net/gh/nurmd2006/empty@main/stream/by/your-abbu/nurmd2006/offline-channels/zeebangla.m3u8
 http://103.89.248.130:8082/zee-bangla/tracks-v1a1/mono.m3u8
@@ -317,6 +317,9 @@ http://livetv.akr4m.com:8080/bdtv/restrem/53.m3u8
 https://madanitv.assadikb.workers.dev/live.php?id=559&e=.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tSgQ4hC.png" group-title="BDiX",DISCOVERY KIDS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=601f58d4b7094d2baf78c85d1d9cb6c9:609e0cc03198455fa36fd2cc3e7f940d
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverykids2/default/manifest.mpd
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://madanitv.assadikb.workers.dev/live.php?id=554&e=.m3u8
 
@@ -364,6 +367,9 @@ https://stream.ottplus.live/live/bbc_earth_hd_abr/index.m3u8
 https://madanitv.assadikb.workers.dev/live.php?id=821&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/duB8GKi.png" group-title="BDiX",ANIMAL PLANET
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=df81f15150f74c799fdde64ef49dfb75:05794a012ae74d77953f2b9fae6804c7
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Animalplanethd2/default/index.mpd
 https://stream.ottplus.live/live/animal_planet_hd_abr/index.m3u8
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://madanitv.assadikb.workers.dev/live.php?id=566&e=.m3u8
@@ -373,6 +379,9 @@ http://livetv.akr4m.com:8080/bdtv/restrem/50.m3u8
 http://66.102.126.10:8000/play/a01d/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qiGNq52.png" group-title="BDiX",DISCOVERY
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b70a8cf9450c4d6484b4ac4d3c6761c0:0908be844260409cbac180bf0181da40
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverychannel2/default/manifest.mpd
 https://stream.ottplus.live/live/discovery_hd_abr/index.m3u8
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://madanitv.assadikb.workers.dev/live.php?id=573&e=.m3u8
