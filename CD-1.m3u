@@ -19,6 +19,13 @@ https://bd-mc-pdlive.fancode.com/mumbai/4246703_english_hls_88f844cf1d98968_1ta-
 https://bdixserver.tvhunter.top/ant1001/tracks-v1a1/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w3lMCXK.png" group-title="BDiX",SONY TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bingeakashgo.live.ott.irdeto.com/licenseServer/widevine/v1/bingeakashgo/license?contentId=368f3847-ed5e&ls_session=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InJzYTIwNDhrZXkifQ.eyJzdWIiOiI0MDM4Mzg5OCIsImlzcyI6Im9wZXJhdG9yLXBvcnRhbCIsImV4cCI6MTc4NDkzNDA1MywiaWF0IjoxNzg0OTI2ODUzLCJhaWQiOiJiaW5nZWFrYXNoZ28iLCJqdGkiOiI1NmM5MTcyZC04YmIwLTQyZjYtYThlZi1iODdiMWI5YTYyMDgiLCJlbnQiOlt7ImVwaWQiOiJzdWJzY3JpcHRpb24tZW50aXRsZW1lbnQtcG9saWN5IiwiYmlkIjoic3Vic2NyaXB0aW9uLWJ1bmRsZSJ9XSwiY2lkIjoiMzY4ZjM4NDctZWQ1ZSJ9.a1u-7t4kyX0Q9drhAvWiLOyiDIcCf1JhvjhiHQatzqnQHluoXNV2YPX6H4q0Hh-QrGY5tGD0GCa-ebh-ux2Ysoi8F-tYEvtNoApNuPducShR1EucWS5QAqcQJT9k8p9Yf86mNkqSu3sKOJV5eYstfqK5Oi6tbprDL-kvHsBRrc04mtDUQgpC7lnISnjgITcnilEQ3A-7MqK7zgbIy7V6JNEyd2-Vv1JvAdhLJlyflEU_vt85EWrr0nY-Trf9jKLypls2O0Vf4dm_SeyNubNN9NLUSh9UvVv1wCMPkY6dVR9X3S-9Fmqan9qfpvV0lVYz6ZUD17l23CmnDtpJCUnDPw|Origin=https://akashgo.com&Referer=https://akashgo.com/&Content-Type=application/octet-stream|R{SSM}|
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.7727.56 Safari/537.36
+#EXTHTTP:{"origin":"https://akashgo.com","referer":"https://akashgo.com/"}
+https://owrcovcrpy.gpcdn.net/bpk-tv/1718/output/index.mpd?_t=1784926854021|Referer=https://akashgo.com/&Origin=https://akashgo.com&edge-key-pair-id=DEFAULT&edge-policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcxOC9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODQ5Mzc2NTN9fX1dfQ&edge-signature=zjlQ712unVi1Th1YVNXzyD47Ww3yyjTy7-6xNxgBm-c
 https://stream.ottplus.live/live/sony_ent_hd_abr/index.m3u8
 https://playyonogames.in/sliv/stream.m3u8?id=1000009246|referer=https://playyonogames.in/
 http://livetv.akr4m.com:8080/bdtv/restrem/59.m3u8
