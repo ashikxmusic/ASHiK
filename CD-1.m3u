@@ -430,6 +430,7 @@ http://livetv.akr4m.com:8080/bdtv/restrem/39.m3u8
 http://103.151.60.204:881/StarSports1/mono.m3u8
 https://tvsen5.aynascope.net/c9EpzZ6fQBJ3/index.m3u8
 http://162.4.112.81/STAR-SPORTS-1-HD/index.mpd
+https://starsportshindiii.pages.dev/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rrIOLOi.png" group-title="BDiX",A SPORTS
 http://103.151.60.204:881/A-Sports/mono.m3u8
