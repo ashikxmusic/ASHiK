@@ -57,8 +57,8 @@ https://playyonogames.in/sliv/stream.m3u8?id=1000044878|referer=https://playyono
 http://103.175.73.12:8080/live/53/53_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2ISQ4oJ.png" group-title="BDiX",SONY MAX
-https://stream.ottplus.live/live/sony_max_sd_abr/index.m3u8
 https://playyonogames.in/sliv/stream.m3u8?id=1000009249|referer=https://playyonogames.in/
+https://stream.ottplus.live/live/sony_max_sd_abr/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DxPzIxt.png" group-title="BDiX",GOLDMINES MOVIES
 http://103.175.73.12:8080/live/51/51_0.m3u8
