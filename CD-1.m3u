@@ -365,7 +365,10 @@ https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 http://livetv.akr4m.com:8080/bdtv/restrem/47.m3u8
 https://tvsen7.aynascope.net/hbo/index.m3u8
 http://27.124.71.27/HBO/index.m3u8
- 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KM4570h.png" group-title="BDiX",MNX HD
+http://monirul.bro.bd/sm/stream.php?id=mnx_hd&e=.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YhG7Aay.png" group-title="BDiX",AXN
 https://tvsen7.aynascope.net/hbo2/index.m3u8
  
