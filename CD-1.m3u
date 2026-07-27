@@ -482,6 +482,7 @@ http://103.191.99.248:5550/110/tracks-v1a1/mono.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rrIOLOi.png" group-title="BDiX",A SPORTS
 http://103.191.99.248:5550/127/tracks-v1a1/mono.m3u8
+http://162.4.112.81/test/index.mpd
 http://103.151.60.204:881/A-Sports/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rnjLW0H.png" group-title="BDiX",PTV
