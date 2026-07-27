@@ -7,6 +7,14 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HfanWSW.png" group-title="BDiX",Ultra Live 1
 http://livetv.akr4m.com:8080/bdtv/restrem/2.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HfanWSW.png" group-title="BDiX",Ultra Live 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d0049ab307fd5a13b96e306b953d06dd:8057ff282237f0831dcdc4f8a9b2946f
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s89lLdi.png" group-title="BDiX",Ultra Live 2
 http://27.124.71.27/Willow_Extra/index.m3u8
 https://bd-mc-pdlive.fancode.com/mumbai/4246703_english_hls_88f844cf1d98968_1ta-di_h264/720p.m3u8
