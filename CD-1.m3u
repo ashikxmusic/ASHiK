@@ -385,6 +385,9 @@ http://27.124.71.27/HBO/index.m3u8
 https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
 http://monirul.bro.bd/sm/stream.php?id=mnx_hd&e=.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GxVH58e.png" group-title="BDiX",HBO HITS
+http://livetv.akr4m.com:8080/bdtv/restrem/29.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YhG7Aay.png" group-title="BDiX",AXN
 https://tvsen7.aynascope.net/hbo2/index.m3u8
  
@@ -428,6 +431,9 @@ https://stream.ottplus.live/live/euro_sports_hd_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vdph1pr.png" group-title="BDiX",beIN SPORTS
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/spo-s5-n/1313533.m3u8
 https://bein-esp-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7KmhHRq.png" group-title="BDiX",STAR SELECT 1
+http://livetv.akr4m.com:8080/bdtv/restrem/39.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v4ofXqI.png" group-title="BDiX",TNT SPORTS
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/spo-s5-n/1174236.m3u8
