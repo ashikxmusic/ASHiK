@@ -150,11 +150,11 @@ http://livetv.akr4m.com:8080/bdtv/restrem/33.m3u8
 http://162.4.112.81/STAR-JALSHA-HD/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sLGbOiN.png" group-title="BDiX",COLORS BANGLA
+http://103.191.99.248:5550/304/mono.m3u8
 https://live.shamim-iptv.workers.dev/COLORSBANGLAHD.m3u8
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://madanitv.assadikb.workers.dev/live.php?id=756&e=.m3u8
 http://livetv.akr4m.com:8080/bdtv/restrem/34.m3u8
-http://103.191.99.248:5550/304/mono.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hov3NXM.png" group-title="BDiX",ZEE BANGLA
 http://livetv.akr4m.com:8080/bdtv/restrem/35.m3u8
@@ -257,8 +257,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
 http://livetv.akr4m.com:8080/bdtv/restrem/16.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9y8Yma3.png" group-title="BDiX",NAGORIK
-https://flussonic.defineatoz.com/backup/tracks-v1a1/mono.m3u8
 http://livetv.akr4m.com:8080/bdtv/restrem/38.m3u8
+https://flussonic.defineatoz.com/backup/tracks-v1a1/mono.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X8mcp9d.png" group-title="BDiX",GAZI TV
 http://103.191.99.248:5550/106/mono.m3u8
