@@ -457,7 +457,6 @@ https://tvsen7.aynascope.net/foxsports1/index.m3u8
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qjJ4204.png" group-title="BDiX",WILLOW EXTRA
-http://27.124.71.27/Willow_Extra/index.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
