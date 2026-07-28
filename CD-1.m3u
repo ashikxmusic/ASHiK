@@ -170,6 +170,7 @@ https://stream.ottplus.live/live/zee_bangla_abr/index.m3u8
 http://livetv.akr4m.com:8080/bdtv/restrem/35.m3u8
 http://162.4.112.81/ZEE-BANGLA-HD/index.mpd
 http://103.191.99.248:5550/301/mono.m3u8
+http://103.151.60.188:1111/Zee-Bangla/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qP2gZ5r.png" group-title="BDiX",ENTAR 10 BANGLA
 https://flussonic.defineatoz.com/Enterr10bangla/tracks-v1a1/mono.m3u8
