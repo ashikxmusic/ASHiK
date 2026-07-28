@@ -7,10 +7,6 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HfanWSW.png" group-title="BDiX",Ultra Live 1
 http://livetv.akr4m.com:8080/bdtv/restrem/2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HfanWSW.png" group-title="BDiX",Ultra Live 1
-#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
-https://biostartvworld.pages.dev/?id=ten-cricket
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s89lLdi.png" group-title="BDiX",Ultra Live 2
 https://criccoder.pages.dev/astro.m3u8
 https://bd-mc-pdlive.fancode.com/mumbai/4246703_english_hls_88f844cf1d98968_1ta-di_h264/720p.m3u8
