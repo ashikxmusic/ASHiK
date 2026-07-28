@@ -218,6 +218,7 @@ http://livetv.akr4m.com:8080/bdtv/restrem/5.m3u8
 http://103.191.99.248:5550/202/mono.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TUggYvX.png.png" group-title="BDiX",RTV
+http://116.204.149.16/rtvhd/index.m3u8
 https://tvsen5.aynascope.net/RtvHD/index.m3u8
 http://livetv.akr4m.com:8080/bdtv/restrem/44.m3u8
  
@@ -242,10 +243,12 @@ http://116.204.149.16/satv/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ECuWUwy.png" group-title="BDiX",SOMOYE TV
+http://116.204.149.16/somoytv/index.m3u8
 http://103.191.99.248:5550/205/mono.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9ZH4wET.jpeg" group-title="BDiX",MAASRANGA TELEVISION
+http://116.204.149.16/maasranga/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 http://103.191.99.248:5550/206/mono.m3u8
  
