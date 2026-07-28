@@ -8,6 +8,7 @@
 http://livetv.akr4m.com:8080/bdtv/restrem/2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s89lLdi.png" group-title="BDiX",Ultra Live 2
+https://criccoder.pages.dev/astro.m3u8
 https://bd-mc-pdlive.fancode.com/mumbai/4246703_english_hls_88f844cf1d98968_1ta-di_h264/720p.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
