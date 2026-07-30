@@ -8,6 +8,7 @@
 http://livetv.akr4m.com:8080/bdtv/restrem/2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s89lLdi.png" group-title="BDiX",Ultra Live 2
+http://103.151.60.162:2122/play/a0f7/index.m3u8
 http://27.124.71.27/Willow_Extra/mono.m3u8
 https://tvsen5.aynascope.net/willowhd/index.m3u8
 https://criccoder.pages.dev/astro.m3u8
@@ -24,7 +25,7 @@ http://livetv.akr4m.com:8080/bdtv/restrem/59.m3u8
 https://tvsen5.aynascope.net/Wfn4bVp3dLgA/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2ISQ4oJ.png" group-title="BDiX",SONY MAX HD
-http://103.151.60.162:2122/play/a0f7/index.m3u8
+http://103.151.60.162:2122/play/a0f8/index.m3u8
 https://playyonogames.in/sliv/stream.m3u8?id=1000009247|referer=https://playyonogames.in/
 http://live.balajibroadband.com:3500/live/476.m3u8
 https://stream.ottplus.live/live/max_hd_abr/index.m3u8
