@@ -31,6 +31,7 @@ http://livetv.akr4m.com:8080/bdtv/restrem/59.m3u8
 https://tvsen5.aynascope.net/Wfn4bVp3dLgA/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2ISQ4oJ.png" group-title="BDiX",SONY MAX HD
+http://103.89.248.130:8082/SONY-MAX/index.m3u8
 https://playyonogames.in/sliv/stream.m3u8?id=1000009247|referer=https://playyonogames.in/
 http://103.151.60.162:2122/play/a0f8/index.m3u8
 https://s3.itcnbd.live/channel/1e4da1952208cbf1.m3u8
@@ -492,6 +493,7 @@ https://bein-esp-xumo.amagi.tv/playlist.m3u8
 http://livetv.akr4m.com:8080/bdtv/restrem/40.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v4ofXqI.png" group-title="BDiX",TNT SPORTS
+http://103.89.248.130:8082/TNT-Sports-1/index.m3u8
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/spo-s5-n/1174236.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oWpH2DM.png.png" group-title="BDiX",TSN
