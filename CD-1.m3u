@@ -361,6 +361,7 @@ https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zoom2/default/main.mpd
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1BrkEKp.png" group-title="BDiX",DURONTO
+http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=duronto_tv&format=.m3u8
 https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/mono.m3u8
 http://103.89.248.130:8082/DURONTO-TV/index.m3u8
  
@@ -523,6 +524,7 @@ https://s3.itcnbd.live/channel/4a49d92ac325641b.m3u8
 http://103.151.60.188:1111/Ten_Cricket/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LmkDMVQ.png" group-title="BDiX",WILLOW
+https://tvsen5.aynaott.com/willowhd/index.m3u8
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spo10/809386.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5tVzO98.png" group-title="BDiX",T SPORTS
@@ -556,6 +558,7 @@ http://103.191.99.248:5550/110/tracks-v1a1/mono.m3u8
 https://s3.itcnbd.live/channel/2929059f34d114ca.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rrIOLOi.png" group-title="BDiX",A SPORTS
+https://tvsen7.aynaott.com/asports-bkp/index.m3u8
 http://162.4.112.81/test/index.mpd
 http://103.191.99.248:5550/127/tracks-v1a1/mono.m3u8
 http://103.151.60.204:881/A-Sports/mono.m3u8
