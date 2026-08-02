@@ -8,6 +8,7 @@
 http://livetv.akr4m.com:8080/bdtv/restrem/2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s89lLdi.png" group-title="BDiX",Ultra Live 2
+https://playztv-apps.pages.dev/willow/index.m3u8
 http://103.89.248.130:8082/1LIVE/index.m3u8
 https://s1.itcnbd.live/unite-8-sports-2-hd/tracks-v1a1/mono.m3u8
 http://103.151.60.162:2122/play/a0f7/index.m3u8
@@ -16,7 +17,7 @@ https://tvsen5.aynascope.net/willowhd/index.m3u8
 https://criccoder.pages.dev/astro.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J9TsgAN.png" group-title="BDiX",Ultra Live 3
-http://103.89.248.130:8082/2LIVE/index.m3u8
+http://103.89.248.130:8082/1LIVE/index.m3u8
 http://livetv.akr4m.com:8080/bdtv/restrem/39.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w3lMCXK.png" group-title="BDiX",SONY TV
