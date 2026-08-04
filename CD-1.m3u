@@ -108,9 +108,9 @@ http://103.175.73.12:8080/live/52/52_0.m3u8
 http://103.175.73.12:8080/live/44/44_0.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lpLIwTv.png" group-title="BDiX",MTV
+http://live.balajibroadband.com:3500/live/1145.m3u8
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://madanitv.assadikb.workers.dev/live.php?id=1145&e=.m3u8
-http://live.balajibroadband.com:3500/live/1145.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4Sm5cTp.png" group-title="BDiX",HUM TV
 https://stream.ottplus.live/live/hum_tv_abr/index.m3u8
@@ -202,8 +202,8 @@ http://103.191.99.248:5550/301/mono.m3u8
 http://103.151.60.188:1111/Zee-Bangla/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qP2gZ5r.png" group-title="BDiX",ENTAR 10 BANGLA
-http://livetv.akr4m.com:8080/bdtv/restrem/58.m3u8
 https://flussonic.defineatoz.com/Enterr10bangla/tracks-v1a1/mono.m3u8
+http://livetv.akr4m.com:8080/bdtv/restrem/58.m3u8
 https://s3.itcnbd.live/channel/53130a538c809fee.m3u8
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 
@@ -216,9 +216,9 @@ http://27.124.71.27/Sun_Bangla/index.m3u8
 http://livetv.akr4m.com:8080/bdtv/restrem/52.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EnTcyB0.png" group-title="BDiX",JALSHA MOVIES
+http://162.4.112.81/JALSHA-MOVIES-HD/index.mpd
 http://livetv.akr4m.com:8080/bdtv/restrem/27.m3u8
 http://103.191.99.248:5550/303/mono.m3u8
-http://162.4.112.81/JALSHA-MOVIES-HD/index.mpd
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://madanitv.assadikb.workers.dev/live.php?id=1120&e=.m3u8
 http://103.151.60.188:1111/Star_Jalsha/mono.m3u8
@@ -229,10 +229,10 @@ http://103.191.99.248:5550/305/mono.m3u8
 https://stream.ottplus.live/live/zee_bangla_cinema_abr/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EXSiYsD.png" group-title="BDiX",COLORS BANGLA CINEMA
+http://live.balajibroadband.com:3500/live/1657.m3u8
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://madanitv.assadikb.workers.dev/live.php?id=1657&e=.m3u8
 https://s3.itcnbd.live/channel/03e4f12c82057a33.m3u8
-http://live.balajibroadband.com:3500/live/1657.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PYlWLYW.png" group-title="BDiX",BTV
 http://livetv.akr4m.com:8080/bdtv/restrem/12.m3u8
