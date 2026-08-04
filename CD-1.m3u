@@ -234,6 +234,9 @@ http://live.balajibroadband.com:3500/live/1657.m3u8
 https://madanitv.assadikb.workers.dev/live.php?id=1657&e=.m3u8
 https://s3.itcnbd.live/channel/03e4f12c82057a33.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eX0ICM7.png" group-title="BDiX",MATRI BHUMI
+http://27.124.71.27/matribhumi/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PYlWLYW.png" group-title="BDiX",BTV
 http://livetv.akr4m.com:8080/bdtv/restrem/12.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
