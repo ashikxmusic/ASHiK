@@ -22,11 +22,11 @@ http://103.89.248.130:8082/1LIVE/index.m3u8
 http://livetv.akr4m.com:8080/bdtv/restrem/39.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w3lMCXK.png" group-title="BDiX",SONY TV
+https://stream.ottplus.live/live/sony_ent_hd_abr/index.m3u8
+https://playyonogames.in/sliv/stream.m3u8?id=1000009246|referer=https://playyonogames.in/
 http://103.151.60.162:2122/play/a01o/index.m3u8
 https://s3.itcnbd.live/server-2/proxy/ten_cricket/playlist?u=https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyentertainmnt_hd/playlist.m3u8
-https://stream.ottplus.live/live/sony_ent_hd_abr/index.m3u8
 http://103.151.60.162:2122/play/a015/index.m3u8
-https://playyonogames.in/sliv/stream.m3u8?id=1000009246|referer=https://playyonogames.in/
 http://103.151.60.162:2122/play/a01o/index.m3u8
 https://s3.itcnbd.live/channel/0188f2b782f52694.m3u8
 https://s3.itcnbd.live/channel/694b13d2b5e74734.m3u8
@@ -67,8 +67,8 @@ http://103.175.73.12:8080/live/43/43_0.m3u8
 https://s3.itcnbd.live/channel/129d01070adb9ee3.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/elkIMYt.jpeg" group-title="BDiX",SONY MAX 2
-https://s3.itcnbd.live/server-2/proxy/ten_cricket/playlist?u=https://bldcmprod-cdn.toffeelive.com/cdn/live/sonymax_2/playlist.m3u8
 https://stream.ottplus.live/live/max_2_abr/index.m3u8
+https://s3.itcnbd.live/server-2/proxy/ten_cricket/playlist?u=https://bldcmprod-cdn.toffeelive.com/cdn/live/sonymax_2/playlist.m3u8
 https://playyonogames.in/sliv/stream.m3u8?id=1000044878|referer=https://playyonogames.in/
 https://s3.itcnbd.live/channel/39863299f454f08b.m3u8
 http://live.balajibroadband.com:3500/live/483.m3u8
@@ -77,9 +77,9 @@ http://live.balajibroadband.com:3500/live/483.m3u8
 http://103.175.73.12:8080/live/53/53_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2ISQ4oJ.png" group-title="BDiX",SONY MAX
+https://playyonogames.in/sliv/stream.m3u8?id=1000009249|referer=https://playyonogames.in/
 https://s3.itcnbd.live/server-2/proxy/ten_cricket/playlist?u=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_max_hd/playlist.m3u8
 https://stream.ottplus.live/live/sony_max_sd_abr/index.m3u8
-https://playyonogames.in/sliv/stream.m3u8?id=1000009249|referer=https://playyonogames.in/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DxPzIxt.png" group-title="BDiX",GOLDMINES MOVIES
 http://103.175.73.12:8080/live/51/51_0.m3u8
@@ -117,8 +117,8 @@ http://live.balajibroadband.com:3500/live/1145.m3u8
 https://madanitv.assadikb.workers.dev/live.php?id=1145&e=.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4Sm5cTp.png" group-title="BDiX",HUM TV
-https://s3.itcnbd.live/server-2/proxy/ten_cricket/playlist?u=https://bldcmprod-cdn.toffeelive.com/cdn/live/hum_tv/playlist.m3u8
 https://stream.ottplus.live/live/hum_tv_abr/index.m3u8
+https://s3.itcnbd.live/server-2/proxy/ten_cricket/playlist?u=https://bldcmprod-cdn.toffeelive.com/cdn/live/hum_tv/playlist.m3u8
 https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9QdSo2n.png" group-title="BDiX",COLORS HD
@@ -130,14 +130,14 @@ http://live.balajibroadband.com:3500/live/144.m3u8
 http://103.191.99.248:5550/405/mono.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZEZQD5l.png" group-title="BDiX",SONY SAB
+https://playyonogames.in/sliv/stream.m3u8?id=1000009248|referer=https://playyonogames.in/
 https://s3.itcnbd.live/server-2/proxy/ten_cricket/playlist?u=https://bldcmprod-cdn.toffeelive.com/cdn/live/sonysab_hd/playlist.m3u8
 https://stream.ottplus.live/live/sub_hd_abr/index.m3u8
-https://playyonogames.in/sliv/stream.m3u8?id=1000009248|referer=https://playyonogames.in/
 http://live.balajibroadband.com:3500/live/471.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nTZY25N.png" group-title="BDiX",HUM SITARAY
-https://s3.itcnbd.live/server-2/proxy/ten_cricket/playlist?u=https://bldcmprod-cdn.toffeelive.com/cdn/live/hum_sitaray/playlist.m3u8
 https://stream.ottplus.live/live/hum_sitaray_abr/index.m3u8
+https://s3.itcnbd.live/server-2/proxy/ten_cricket/playlist?u=https://bldcmprod-cdn.toffeelive.com/cdn/live/hum_sitaray/playlist.m3u8
 https://s3.itcnbd.live/channel/8f880f8e735898b9.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L0NPsXQ.png" group-title="BDiX",STAR PLUS
@@ -170,10 +170,10 @@ http://livetv.akr4m.com:8080/bdtv/restrem/64.m3u8
 http://103.175.73.12:8080/live/274/274_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xcLmgMj.png" group-title="BDiX",SONY AATH
+https://playyonogames.in/sliv/stream.m3u8?id=1000009255|referer=https://playyonogames.in/
 https://flussonic.defineatoz.com/sony8/index.m3u8
 https://s3.itcnbd.live/server-2/proxy/ten_cricket/playlist?u=https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyaath/playlist.m3u8
 https://stream.ottplus.live/live/sony_aath_abr/index.m3u8
-https://playyonogames.in/sliv/stream.m3u8?id=1000009255|referer=https://playyonogames.in/
 http://103.191.99.248:5550/306/mono.m3u8
 https://s3.itcnbd.live/channel/fd817cf551aa55a0.m3u8
 http://live.balajibroadband.com:3500/live/697.m3u8
@@ -198,6 +198,7 @@ https://madanitv.assadikb.workers.dev/live.php?id=756&e=.m3u8
 http://103.151.61.12/COLORS_BANHLA/tracks-v1a1/mono.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hov3NXM.png" group-title="BDiX",ZEE BANGLA
+http://162.4.112.81/ZEE-BANGLA-HD/index.mpd
 http://livetv.akr4m.com:8080/bdtv/restrem/35.m3u8
 https://s3.itcnbd.live/channel/5ddddd6f407f0574.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -208,14 +209,8 @@ https://cdn.jsdelivr.net/gh/nurmd2006/empty@main/stream/by/your-abbu/nurmd2006/o
 http://103.89.248.130:8082/zee-bangla/tracks-v1a1/mono.m3u8
 https://stream.ottplus.live/live/zee_bangla_abr/index.m3u8
 http://livetv.akr4m.com:8080/bdtv/restrem/35.m3u8
-http://162.4.112.81/ZEE-BANGLA-HD/index.mpd
 http://103.191.99.248:5550/301/mono.m3u8
 http://103.151.60.188:1111/Zee-Bangla/mono.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1df83e058b864da896c9288eef63b113:fc32f26239054b56aab48225305598fe
-#EXTINF:-1 tvg-id="zee-anoml-cinema" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/9XHWylqs.png" group-title="Regional", Zee Bangla HD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd/default/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qP2gZ5r.png" group-title="BDiX",ENTAR 10 BANGLA
 https://flussonic.defineatoz.com/Enterr10bangla/tracks-v1a1/mono.m3u8
@@ -388,12 +383,12 @@ https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/mono.m3u8
 http://103.89.248.130:8082/DURONTO-TV/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cgyLwlH.png" group-title="BDiX",RONGEEN
-https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 https://flussonic.defineatoz.com/rongeentv/mono.m3u8
+https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/min4HlY.png" group-title="BDiX",CARTOON NETWORK
-https://s3.itcnbd.live/server-2/proxy/ten_cricket/playlist?u=https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8
 https://stream.ottplus.live/live/cn_hd_abr/index.m3u8
+https://s3.itcnbd.live/server-2/proxy/ten_cricket/playlist?u=https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8
 https://s3.itcnbd.live/channel/0d3b536b0d64c080.m3u8
 http://103.151.60.162:2122/play/a010/index.m3u8
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
@@ -422,8 +417,8 @@ https://madanitv.assadikb.workers.dev/live.php?id=554&e=.m3u8
 https://s3.itcnbd.live/channel/b10ea8ed1c748803.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qRnRmQs.png" group-title="BDiX",SONY YAY!
-https://stream.ottplus.live/live/sony_yay_abr/index.m3u8
 https://playyonogames.in/sliv/stream.m3u8?id=1000001971|referer=https://playyonogames.in/
+https://stream.ottplus.live/live/sony_yay_abr/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OwpUaAJ.png" group-title="BDiX",CNN
 https://stream.ottplus.live/live/cnn_sd_abr/index.m3u8
@@ -432,9 +427,9 @@ https://stream.ottplus.live/live/cnn_sd_abr/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SZXa8nf.png" group-title="BDiX",SONY PIX
+https://playyonogames.in/sliv/stream.m3u8?id=1000009258|referer=https://playyonogames.in/
 https://s3.itcnbd.live/server-2/proxy/ten_cricket/playlist?u=https://bldcmprod-cdn.toffeelive.com/cdn/live/sonypix_hd/playlist.m3u8
 https://stream.ottplus.live/live/pix_hd_abr/index.m3u8
-https://playyonogames.in/sliv/stream.m3u8?id=1000009258|referer=https://playyonogames.in/
 http://103.191.99.248:5550/503/tracks-v1a1/mono.m3u8
 https://s3.itcnbd.live/channel/08d74db4e725af9f.m3u8
 http://live.balajibroadband.com:3500/live/762.m3u8
@@ -481,8 +476,8 @@ https://madanitv.assadikb.workers.dev/live.php?id=562&e=.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Investigationdiscovery2/default/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OF3ClE6.png" group-title="BDiX",BBC EARTH
-https://s3.itcnbd.live/server-2/proxy/ten_cricket/playlist?u=https://bldcmprod-cdn.toffeelive.com/cdn/live/sonybbc_earth_hd/playlist.m3u8
 https://stream.ottplus.live/live/bbc_earth_hd_abr/index.m3u8
+https://s3.itcnbd.live/server-2/proxy/ten_cricket/playlist?u=https://bldcmprod-cdn.toffeelive.com/cdn/live/sonybbc_earth_hd/playlist.m3u8
 https://s3.itcnbd.live/channel/5143956b7953d35a.m3u8
 http://live.balajibroadband.com:3500/live/821.m3u8
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
@@ -547,8 +542,8 @@ http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FH2mRwL.png" group-title="BDiX",TEN CRICKET
-https://s3.itcnbd.live/server-2/proxy/ten_cricket/playlist?u=https://bldcmprod-cdn.toffeelive.com/cdn/live/ten_cricket/playlist.m3u8
 https://stream.ottplus.live/live/ten_cricket_hd_abr/index.m3u8
+https://s3.itcnbd.live/server-2/proxy/ten_cricket/playlist?u=https://bldcmprod-cdn.toffeelive.com/cdn/live/ten_cricket/playlist.m3u8
 https://s3.itcnbd.live/channel/4a49d92ac325641b.m3u8
 http://103.151.60.188:1111/Ten_Cricket/tracks-v1a1/mono.m3u8
 
