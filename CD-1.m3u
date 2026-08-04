@@ -418,6 +418,12 @@ https://s3.itcnbd.live/server-2/proxy/ten_cricket/playlist?u=https://bldcmprod-c
 https://stream.ottplus.live/live/sony_yay_abr/index.m3u8
 https://playyonogames.in/sliv/stream.m3u8?id=1000001971|referer=https://playyonogames.in/
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OwpUaAJ.png" group-title="BDiX",CNN
+https://stream.ottplus.live/live/cnn_sd_abr/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I62j6BO.png group-title="BDiX",AL JAZIRA
+https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SZXa8nf.png" group-title="BDiX",SONY PIX
 https://s3.itcnbd.live/server-2/proxy/ten_cricket/playlist?u=https://bldcmprod-cdn.toffeelive.com/cdn/live/sonypix_hd/playlist.m3u8
 https://stream.ottplus.live/live/pix_hd_abr/index.m3u8
@@ -427,14 +433,7 @@ https://s3.itcnbd.live/channel/08d74db4e725af9f.m3u8
 http://live.balajibroadband.com:3500/live/762.m3u8
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://madanitv.assadikb.workers.dev/live.PIX?id=762&e=.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OwpUaAJ.png" group-title="BDiX",CNN
-https://s3.itcnbd.live/server-2/proxy/ten_cricket/playlist?u=https://bldcmprod-cdn.toffeelive.com/cdn/live/sonypix_hd/playlist.m3u8
-https://stream.ottplus.live/live/cnn_sd_abr/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/I62j6BO.png group-title="BDiX",AL JAZIRA
-https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
- 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JLK2ogn.png" group-title="BDiX",STAR MOVIES
 https://s3.itcnbd.live/channel/c1115c8faed1ccb8.m3u8
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
