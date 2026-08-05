@@ -466,7 +466,7 @@ http://27.124.71.27/HBO/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
-https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
+https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
 http://monirul.bro.bd/sm/stream.php?id=mnx_hd&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GxVH58e.png" group-title="BDiX",HBO HITS
