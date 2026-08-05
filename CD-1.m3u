@@ -9,12 +9,12 @@ http://162.4.112.81/T-SPORTS-HD/index.mpd
 http://livetv.akr4m.com:8080/bdtv/restrem/2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s89lLdi.png" group-title="BDiX",Ultra Live 2
+https://tvsen5.aynascope.net/willowhd/index.m3u8
 https://playztv-apps.pages.dev/willow/index.m3u8
 http://103.89.248.130:8082/1LIVE/index.m3u8
 https://s1.itcnbd.live/unite-8-sports-2-hd/tracks-v1a1/mono.m3u8
 http://103.151.60.162:2122/play/a0f7/index.m3u8
 http://27.124.71.27/Willow_Extra/mono.m3u8
-https://tvsen5.aynascope.net/willowhd/index.m3u8
 https://criccoder.pages.dev/astro.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J9TsgAN.png" group-title="BDiX",Ultra Live 3
@@ -258,6 +258,7 @@ http://27.124.71.27/matribhumi/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PYlWLYW.png" group-title="BDiX",BTV
 https://flussonic.defineatoz.com/btv/mono.m3u8
+https://playztv-apps.pages.dev/btv/index.m3u8
 http://livetv.akr4m.com:8080/bdtv/restrem/12.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
  
@@ -281,13 +282,17 @@ https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eNpNI9z.png" group-title="BDiX",ATN NEWS
+https://tvsen6.aynaott.com/da6WMXAk/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 http://103.191.99.248:5550/203/mono.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qxEsyBq.png" group-title="BDiX",INDEPENDENT
+
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gusHyO8.png" group-title="BDiX",JAMUNA TELEVISION
+https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8
+https://playztv-apps.pages.dev/jamuna-tv/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 http://103.191.99.248:5550/209/mono.m3u8
  
@@ -295,6 +300,7 @@ http://103.191.99.248:5550/209/mono.m3u8
 http://116.204.149.16/satv/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VXWf1Cw.png" group-title="BDiX",BANGLA VISION
+https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ECuWUwy.png" group-title="BDiX",SOMOYE TV
@@ -304,23 +310,31 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9ZH4wET.jpeg" group-title="BDiX",MAASRANGA TELEVISION
 http://116.204.149.16/maasranga/index.m3u8
+https://mtv.sunplex.live/MAASRANGA/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 http://103.191.99.248:5550/206/mono.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QRQOzpJ.png" group-title="BDiX",CHANNEL 24
+https://flussonic.defineatoz.com/Channel24/tracks-v1a1/mono.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
- 
+
+#EXTINF:-1 tvg-logo="https://ln.run/7MdNi" group-title="BDiX",ASIAN TV
+https://playztv-apps.pages.dev/asian-tv/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d1HHf07.png" group-title="BDiX",CHANNEL I
+https://playztv-apps.pages.dev/channel-i/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 http://103.191.99.248:5550/207/mono.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J1DJnGi.png" group-title="BDiX",CHANNEL 9
+https://playztv-apps.pages.dev/channel-9/index.m3u8
 http://livetv.akr4m.com:8080/bdtv/restrem/16.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9y8Yma3.png" group-title="BDiX",NAGORIK
 https://flussonic.defineatoz.com/backup/tracks-v1a1/mono.m3u8
 http://livetv.akr4m.com:8080/bdtv/restrem/38.m3u8
+http://103.151.61.12/Nagorik_TV/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X8mcp9d.png" group-title="BDiX",GAZI TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/playlist.m3u8
@@ -561,6 +575,7 @@ http://103.151.60.188:1111/Ten_Cricket/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LmkDMVQ.png" group-title="BDiX",WILLOW
 https://tvsen5.aynaott.com/willowhd/index.m3u8
+https://playztv-apps.pages.dev/willow/index.m3u8
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spo10/809386.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5tVzO98.png" group-title="BDiX",T SPORTS
@@ -599,6 +614,7 @@ https://s3.itcnbd.live/channel/2929059f34d114ca.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rrIOLOi.png" group-title="BDiX",A SPORTS
 https://tvsen7.aynaott.com/asports-bkp/index.m3u8
 http://162.4.112.81/test/index.mpd
+https://playztv-apps.pages.dev/asports/index.m3u8
 http://103.191.99.248:5550/127/tracks-v1a1/mono.m3u8
 http://103.151.60.204:881/A-Sports/mono.m3u8
 https://s3.itcnbd.live/channel/4203c78f100e1005.m3u8
