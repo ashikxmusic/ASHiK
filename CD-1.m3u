@@ -5,12 +5,9 @@
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HfanWSW.png" group-title="BDiX",Ultra Live 1
+https://flussonic.defineatoz.com/TSports2/tracks-v1a1/mono.m3u8
 http://162.4.112.81/T-SPORTS-HD/index.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HfanWSW.png" group-title="BDiX",Ultra Live 1
 http://livetv.akr4m.com:8080/bdtv/restrem/2.m3u8
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-#EXTVLCOPT:http-origin=https://executeandship.com
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s89lLdi.png" group-title="BDiX",Ultra Live 2
 https://tvsen5.aynascope.net/willowhd/index.m3u8
@@ -584,7 +581,6 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spo10/80
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5tVzO98.png" group-title="BDiX",T SPORTS
 http://162.4.112.81/T-SPORTS-HD/index.mpd
-https://flussonic.defineatoz.com/TSports2/tracks-v1a1/mono.m3u8
 https://biostartvworld.pages.dev/api/key/aHR0cHM6Ly9mbHVzc29uaWMuZGVsdGFpbmZvbmV0LmNvbS8wMV9Uc3BvcnRzX0hEL3RyYWNrcy12MWExL21vbm8ubTN1OHx8fHx8fHt9/mono.m3u8
 https://flussonic.defineatoz.com/TSports2/tracks-v1a1/mono.m3u8
 https://bdixserver.tvhunter.top/ant1004/tracks-v1a1/index.m3u8
