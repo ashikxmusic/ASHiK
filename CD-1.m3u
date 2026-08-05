@@ -23,10 +23,9 @@ http://103.89.248.130:8082/1LIVE/index.m3u8
 http://livetv.akr4m.com:8080/bdtv/restrem/39.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w3lMCXK.png" group-title="BDiX",SONY TV
-https://stream.ottplus.live/live/sony_ent_hd_abr/index.m3u8
 https://playyonogames.in/sliv/stream.m3u8?id=1000009246|referer=https://playyonogames.in/
+https://stream.ottplus.live/live/sony_ent_hd_abr/index.m3u8
 http://103.151.60.162:2122/play/a01o/index.m3u8
-https://s3.itcnbd.live/server-2/proxy/ten_cricket/playlist?u=https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyentertainmnt_hd/playlist.m3u8
 http://103.151.60.162:2122/play/a015/index.m3u8
 http://103.151.60.162:2122/play/a01o/index.m3u8
 https://s3.itcnbd.live/channel/0188f2b782f52694.m3u8
@@ -37,10 +36,10 @@ http://livetv.akr4m.com:8080/bdtv/restrem/59.m3u8
 https://tvsen5.aynascope.net/Wfn4bVp3dLgA/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2ISQ4oJ.png" group-title="BDiX",SONY MAX HD
+https://playyonogames.in/sliv/stream.m3u8?id=1000009247|referer=https://playyonogames.in/
 http://103.151.60.162:2122/play/a014/index.m3u8
 http://103.151.60.162:2122/play/a0f8/index.m3u8
 http://103.89.248.130:8082/SONY-MAX/index.m3u8
-https://playyonogames.in/sliv/stream.m3u8?id=1000009247|referer=https://playyonogames.in/
 http://103.151.60.162:2122/play/a0f8/index.m3u8
 https://s3.itcnbd.live/channel/1e4da1952208cbf1.m3u8
 http://live.balajibroadband.com:3500/live/476.m3u8
@@ -58,6 +57,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/mono.m3u8
 https://stream.ottplus.live/live/zee_cinema_hd_abr/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1wnVpOq.png" group-title="BDiX",STAR GOLD
+http://103.151.60.162:2122/play/a01n/index.m3u8
 http://livetv.akr4m.com:8080/bdtv/restrem/45.m3u8
 https://s3.itcnbd.live/channel/f5dd87a5c3b03131.m3u8
 http://103.191.99.248:5550/402/mono.m3u8
@@ -72,9 +72,9 @@ http://103.175.73.12:8080/live/43/43_0.m3u8
 https://s3.itcnbd.live/channel/129d01070adb9ee3.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/elkIMYt.jpeg" group-title="BDiX",SONY MAX 2
+https://playyonogames.in/sliv/stream.m3u8?id=1000044878|referer=https://playyonogames.in/
 https://stream.ottplus.live/live/max_2_abr/index.m3u8
 https://s3.itcnbd.live/server-2/proxy/ten_cricket/playlist?u=https://bldcmprod-cdn.toffeelive.com/cdn/live/sonymax_2/playlist.m3u8
-https://playyonogames.in/sliv/stream.m3u8?id=1000044878|referer=https://playyonogames.in/
 https://s3.itcnbd.live/channel/39863299f454f08b.m3u8
 http://live.balajibroadband.com:3500/live/483.m3u8
 
@@ -127,6 +127,7 @@ https://s3.itcnbd.live/server-2/proxy/ten_cricket/playlist?u=https://bldcmprod-c
 https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9QdSo2n.png" group-title="BDiX",COLORS HD
+http://66.102.126.10:8000/play/a00a/index.m3u8
 http://livetv.akr4m.com:8080/bdtv/restrem/60.m3u8
 https://s3.itcnbd.live/channel/e27ffe2a4efbf850.m3u8
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
@@ -194,10 +195,11 @@ http://livetv.akr4m.com:8080/bdtv/restrem/33.m3u8
 http://162.4.112.81/STAR-JALSHA-HD/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sLGbOiN.png" group-title="BDiX",COLORS BANGLA
+http://103.114.11.37:8081/Colors-bangla/index.m3u8
+https://live.shamim-iptv.workers.dev/COLORSBANGLAHD.m3u8
 http://livetv.akr4m.com:8080/bdtv/restrem/34.m3u8
 https://s3.itcnbd.live/channel/e27ffe2a4efbf850.m3u8
 http://103.191.99.248:5550/304/mono.m3u8
-https://live.shamim-iptv.workers.dev/COLORSBANGLAHD.m3u8
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://madanitv.assadikb.workers.dev/live.php?id=756&e=.m3u8
 http://103.151.61.12/COLORS_BANHLA/tracks-v1a1/mono.m3u8
@@ -255,6 +257,7 @@ https://s3.itcnbd.live/channel/03e4f12c82057a33.m3u8
 http://27.124.71.27/matribhumi/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PYlWLYW.png" group-title="BDiX",BTV
+https://flussonic.defineatoz.com/btv/mono.m3u8
 http://livetv.akr4m.com:8080/bdtv/restrem/12.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
  
@@ -316,9 +319,9 @@ http://livetv.akr4m.com:8080/bdtv/restrem/16.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9y8Yma3.png" group-title="BDiX",NAGORIK
-http://livetv.akr4m.com:8080/bdtv/restrem/38.m3u8
 https://flussonic.defineatoz.com/backup/tracks-v1a1/mono.m3u8
- 
+http://livetv.akr4m.com:8080/bdtv/restrem/38.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X8mcp9d.png" group-title="BDiX",GAZI TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/playlist.m3u8
 https://s3.itcnbd.live/channel/d9cf898d0942e550.m3u8
@@ -392,10 +395,10 @@ https://flussonic.defineatoz.com/rongeentv/mono.m3u8
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/min4HlY.png" group-title="BDiX",CARTOON NETWORK
+http://103.151.60.162:2122/play/a010/index.m3u8
 https://stream.ottplus.live/live/cn_hd_abr/index.m3u8
 https://s3.itcnbd.live/server-2/proxy/ten_cricket/playlist?u=https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8
 https://s3.itcnbd.live/channel/0d3b536b0d64c080.m3u8
-http://103.151.60.162:2122/play/a010/index.m3u8
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://madanitv.assadikb.workers.dev/live.php?id=816&e=.m3u8
 
@@ -429,6 +432,7 @@ https://stream.ottplus.live/live/sony_yay_abr/index.m3u8
 https://stream.ottplus.live/live/cnn_sd_abr/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I62j6BO.png group-title="BDiX",AL JAZIRA
+https://live-hls-web-aje-gcp.thehlive.com/AJE/01.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SZXa8nf.png" group-title="BDiX",SONY PIX
@@ -518,19 +522,13 @@ https://s3.itcnbd.live/channel/f1d0db4784370c8b.m3u8
 https://flussonic.defineatoz.com/Eurosport/mono.m3u8
 https://stream.ottplus.live/live/euro_sports_hd_abr/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9YDwSmH.png" group-title="BDiX", FOX 4K HDR
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/lsilniwjf7/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pooSOJ1.png" group-title="BDiX",beIN SPORTS ñ
 http://103.151.60.162:2122/play/a00t/index.m3u8
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/spo-s5-n/1313533.m3u8
 https://bein-esp-xumo.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7KmhHRq.png" group-title="BDiX",STAR SELECT 1
+https://flussonic.defineatoz.com/starsportsselect1/tracks-v1a1/mono.m3u8
 http://livetv.akr4m.com:8080/bdtv/restrem/40.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v4ofXqI.png" group-title="BDiX",TNT SPORTS
@@ -555,6 +553,7 @@ http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FH2mRwL.png" group-title="BDiX",TEN CRICKET
+http://103.151.60.162:2122/play/a0fj/index.m3u8
 https://stream.ottplus.live/live/ten_cricket_hd_abr/index.m3u8
 https://s3.itcnbd.live/server-2/proxy/ten_cricket/playlist?u=https://bldcmprod-cdn.toffeelive.com/cdn/live/ten_cricket/playlist.m3u8
 https://s3.itcnbd.live/channel/4a49d92ac325641b.m3u8
@@ -586,8 +585,10 @@ http://103.191.99.248:5550/119/tracks-v1a1/mono.m3u8
 https://s3.itcnbd.live/channel/83da8812e94794d5.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eOCOMXh.png" group-title="BDiX",STAR SPORTS
-http://livetv.akr4m.com:8080/bdtv/restrem/39.m3u8
 https://flussonic.defineatoz.com/Starsports1/mono.m3u8
+http://tvsen7.aynascope.net/sspts1/mono.m3u8
+http://103.151.61.12/STAR_SPORTS_1/tracks-v1a1/mono.m3u8
+http://livetv.akr4m.com:8080/bdtv/restrem/39.m3u8
 http://103.151.60.204:881/StarSports1/mono.m3u8
 https://tvsen5.aynascope.net/c9EpzZ6fQBJ3/index.m3u8
 http://162.4.112.81/STAR-SPORTS-1-HD/index.mpd
@@ -603,9 +604,9 @@ http://103.151.60.204:881/A-Sports/mono.m3u8
 https://s3.itcnbd.live/channel/4203c78f100e1005.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rnjLW0H.png" group-title="BDiX",PTV
+https://flussonic.defineatoz.com/PTV/mono.m3u8
 https://s1.itcnbd.live/PTV-Sports/tracks-v1a1/mono.m3u8
 http://103.151.60.162:2122/play/a0f9/index.m3u8
-https://flussonic.defineatoz.com/PTV/mono.m3u8
 http://103.151.60.204:881/PTV/mono.m3u8
 http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
 http://103.191.99.248:5550/128/tracks-v1a1/mono.m3u8
