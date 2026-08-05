@@ -9,9 +9,7 @@ http://162.4.112.81/T-SPORTS-HD/index.mpd
 http://livetv.akr4m.com:8080/bdtv/restrem/2.m3u8
 
 #EXTINF:-1 tvg-id="289" tvg-name="Sony Max" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1780310920616.png" group-title="Movies",Sony Max
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 #KODIPROP:inputstream.adaptive.license_key=https://bingeakashgo.live.ott.irdeto.com/licenseServer/widevine/v1/bingeakashgo/license?contentId=e7eb2b46-bc76&ls_session=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InJzYTIwNDhrZXkifQ.eyJzdWIiOiI0MDM4Mzg5OCIsImlzcyI6Im9wZXJhdG9yLXBvcnRhbCIsImV4cCI6MTc4NTk1Mjg2OCwiaWF0IjoxNzg1OTQ1NjY4LCJhaWQiOiJiaW5nZWFrYXNoZ28iLCJqdGkiOiIwN2JmZmQwZi04Nzg3LTQ3ODQtOTNlOS1jNTE0OGZhMTAzNzEiLCJlbnQiOlt7ImVwaWQiOiJzdWJzY3JpcHRpb24tZW50aXRsZW1lbnQtcG9saWN5IiwiYmlkIjoic3Vic2NyaXB0aW9uLWJ1bmRsZSJ9XSwiY2lkIjoiZTdlYjJiNDYtYmM3NiJ9.akqYfjLqbbvPvZSoMYQt22kUEZkwCmroUF8DcKyTkKyw3LR1ud8M2Yv-4TF3J-NATRX0e9_PMeU61aMV8f7BIbaMGHbG5SZe5FcvKHOyr5YQuGlbC59kffcPhHY-ybHUaCn3ZDZlwjIDblIVo7mPEf3urRFrrH_0F5P0mVgk6sdExam0S1kQV0fmlg3buiRH8w25T2agEH99yyt9Vaa49eXDx3gcH2-IGGlilOPNer1QBusDAWug2jyMzJT1pAmjkkPl2PLh7zKvG0WT8WhOEp1O1BuQsYnCLwVHzNuRSeyqVAY3JBid1IKOZ8xQ3BMcdpGSBlOKMYIpJWEdvUHO8A
 #EXTHTTP:{"edge-policy":"eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTczMC9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODU5NTY0Njh9fX1dfQ","edge-signature":"WDLmVeoqVhyP~mQ4RUV4rpSe9xHgPEFYpXoXLf5PbG0"}
 https://owrcovcrpy.gpcdn.net/bpk-tv/1730/output/index.mpd?_t=1785945669037
