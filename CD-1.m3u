@@ -5,7 +5,7 @@
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HfanWSW.png" group-title="BDiX",Ultra Live 1
-#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+http://162.4.112.81/T-SPORTS-HD/index.mpd
 http://livetv.akr4m.com:8080/bdtv/restrem/2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s89lLdi.png" group-title="BDiX",Ultra Live 2
@@ -581,8 +581,6 @@ http://103.191.99.248:5550/119/tracks-v1a1/mono.m3u8
 https://s3.itcnbd.live/channel/83da8812e94794d5.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eOCOMXh.png" group-title="BDiX",STAR SPORTS
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-#EXTVLCOPT:http-origin=https://executeandship.com
 http://livetv.akr4m.com:8080/bdtv/restrem/39.m3u8
 https://flussonic.defineatoz.com/Starsports1/mono.m3u8
 http://103.151.60.204:881/StarSports1/mono.m3u8
