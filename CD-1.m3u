@@ -8,12 +8,6 @@
 http://162.4.112.81/T-SPORTS-HD/index.mpd
 http://livetv.akr4m.com:8080/bdtv/restrem/2.m3u8
 
-#EXTINF:-1 tvg-id="289" tvg-name="Sony Max" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1780310920616.png" group-title="Movies",Sony Max
-#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
-#KODIPROP:inputstream.adaptive.license_key=https://bingeakashgo.live.ott.irdeto.com/licenseServer/widevine/v1/bingeakashgo/license?contentId=e7eb2b46-bc76&ls_session=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InJzYTIwNDhrZXkifQ.eyJzdWIiOiI0MDM4Mzg5OCIsImlzcyI6Im9wZXJhdG9yLXBvcnRhbCIsImV4cCI6MTc4NTk1Mjg2OCwiaWF0IjoxNzg1OTQ1NjY4LCJhaWQiOiJiaW5nZWFrYXNoZ28iLCJqdGkiOiIwN2JmZmQwZi04Nzg3LTQ3ODQtOTNlOS1jNTE0OGZhMTAzNzEiLCJlbnQiOlt7ImVwaWQiOiJzdWJzY3JpcHRpb24tZW50aXRsZW1lbnQtcG9saWN5IiwiYmlkIjoic3Vic2NyaXB0aW9uLWJ1bmRsZSJ9XSwiY2lkIjoiZTdlYjJiNDYtYmM3NiJ9.akqYfjLqbbvPvZSoMYQt22kUEZkwCmroUF8DcKyTkKyw3LR1ud8M2Yv-4TF3J-NATRX0e9_PMeU61aMV8f7BIbaMGHbG5SZe5FcvKHOyr5YQuGlbC59kffcPhHY-ybHUaCn3ZDZlwjIDblIVo7mPEf3urRFrrH_0F5P0mVgk6sdExam0S1kQV0fmlg3buiRH8w25T2agEH99yyt9Vaa49eXDx3gcH2-IGGlilOPNer1QBusDAWug2jyMzJT1pAmjkkPl2PLh7zKvG0WT8WhOEp1O1BuQsYnCLwVHzNuRSeyqVAY3JBid1IKOZ8xQ3BMcdpGSBlOKMYIpJWEdvUHO8A
-#EXTHTTP:{"edge-policy":"eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTczMC9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODU5NTY0Njh9fX1dfQ","edge-signature":"WDLmVeoqVhyP~mQ4RUV4rpSe9xHgPEFYpXoXLf5PbG0"}
-https://owrcovcrpy.gpcdn.net/bpk-tv/1730/output/index.mpd?_t=1785945669037
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s89lLdi.png" group-title="BDiX",Ultra Live 2
 https://playztv-apps.pages.dev/willow/index.m3u8
 http://103.89.248.130:8082/1LIVE/index.m3u8
@@ -53,6 +47,10 @@ http://live.balajibroadband.com:3500/live/476.m3u8
 https://stream.ottplus.live/live/max_hd_abr/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OhPltnP.png" group-title="BDiX",ZEE CINEMA HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f56beaac9f124616872c741c9ce4fa4e:5d40a903238f4ad98abbed1877d4e3d1
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd
 http://livetv.akr4m.com:8080/bdtv/restrem/63.m3u8
 https://s3.itcnbd.live/channel/bd6b488131cedd18.m3u8
 http://103.191.99.248:5550/406/mono.m3u8
@@ -463,7 +461,8 @@ http://27.124.71.27/HBO/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KM4570h.png" group-title="BDiX",MNX HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
-https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 14) ExoPlayerLib/2.11.7
+https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 http://monirul.bro.bd/sm/stream.php?id=mnx_hd&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GxVH58e.png" group-title="BDiX",HBO HITS
