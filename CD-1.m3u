@@ -512,6 +512,13 @@ https://s3.itcnbd.live/channel/f1d0db4784370c8b.m3u8
 https://flussonic.defineatoz.com/Eurosport/mono.m3u8
 https://stream.ottplus.live/live/euro_sports_hd_abr/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9YDwSmH.png" group-title="BDiX", FOX 4K HDR
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/lsilniwjf7/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pooSOJ1.png" group-title="BDiX",beIN SPORTS ñ
 http://103.151.60.162:2122/play/a00t/index.m3u8
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/spo-s5-n/1313533.m3u8
