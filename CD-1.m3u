@@ -171,6 +171,7 @@ https://stream.ottplus.live/live/hum_masala_abr/index.m3u8
 https://s3.itcnbd.live/channel/45eb5271977bc777.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tk7gzBz.png" group-title="BDiX",DANGAAL
+https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 http://livetv.akr4m.com:8080/bdtv/restrem/64.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XtpANrn.png" group-title="BDiX",SHEMAROO TV
