@@ -111,9 +111,19 @@ https://vods2.aynaott.com/hindimovies/mono.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/index.mpd
 http://103.191.99.248:5550/407/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bXAti5J.png" group-title="BDiX",Korean Drama Active
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ed197e7253c04946903f03bad9afac91:99ebb8683ea74b70a9fda1cbdc2cc1b4
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Koreandramas2/default/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AGvNjCS.png" group-title="BDiX",GOLDMINES BOLLYWOOD
 http://103.175.73.12:8080/live/52/52_0.m3u8
- 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cERXR8O.png" group-title="BDiX",Anmol Cinema
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=812411cba8bc42c79eb2b19cd78ad3f3:468a0b8d3d5d42d8a5c41bb875390a74
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema/default/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMf5b7r.png" group-title="BDiX",B4U KADAK
 http://103.175.73.12:8080/live/44/44_0.m3u8
  
@@ -124,7 +134,6 @@ https://madanitv.assadikb.workers.dev/live.php?id=1145&e=.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4Sm5cTp.png" group-title="BDiX",HUM TV
 https://stream.ottplus.live/live/hum_tv_abr/index.m3u8
-https://s3.itcnbd.live/server-2/proxy/ten_cricket/playlist?u=https://bldcmprod-cdn.toffeelive.com/cdn/live/hum_tv/playlist.m3u8
 https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9QdSo2n.png" group-title="BDiX",COLORS HD
@@ -143,6 +152,7 @@ https://stream.ottplus.live/live/sub_hd_abr/index.m3u8
 http://live.balajibroadband.com:3500/live/471.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nTZY25N.png" group-title="BDiX",HUM SITARAY
+http://38.101.217.46/HumSitaray/index.m3u8
 https://stream.ottplus.live/live/hum_sitaray_abr/index.m3u8
 https://s3.itcnbd.live/server-2/proxy/ten_cricket/playlist?u=https://bldcmprod-cdn.toffeelive.com/cdn/live/hum_sitaray/playlist.m3u8
 https://s3.itcnbd.live/channel/8f880f8e735898b9.m3u8
@@ -164,9 +174,14 @@ https://stream.ottplus.live/live/zee_tv_hd_abr/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=67d18634ccb04875875c60fb8d9caaba:99a66471c09e4b8a8dc39a0de6803f75
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd/default/manifest.mpd
- 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YqWlIia.png" group-title="BDiX",Anmol TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4023613457774cbeb71a62c339970e63:1c3e9fce5f014542be9cd1f749181204
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol/default/main.mpd?
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0cxZscb.png" group-title="BDiX",HUM MASALA
-https://s3.itcnbd.live/server-2/proxy/ten_cricket/playlist?u=https://bldcmprod-cdn.toffeelive.com/cdn/live/hum_masala/playlist.m3u8
+http://38.101.217.46/HumMasala/index.m3u8
 https://stream.ottplus.live/live/hum_masala_abr/index.m3u8
 https://s3.itcnbd.live/channel/45eb5271977bc777.m3u8
 
@@ -250,6 +265,7 @@ http://103.191.99.248:5550/305/mono.m3u8
 https://stream.ottplus.live/live/zee_bangla_cinema_abr/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EXSiYsD.png" group-title="BDiX",COLORS BANGLA CINEMA
+https://live.shamim-iptv.workers.dev/coloursbanglachinema.m3u8
 http://live.balajibroadband.com:3500/live/1657.m3u8
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://madanitv.assadikb.workers.dev/live.php?id=1657&e=.m3u8
@@ -374,12 +390,15 @@ http://116.204.149.16/banglatv/index.m3u8
 https://cdn.ghuddi.live/Bangla_TV/Bangla_TV_BD/playlist.m3u8
 http://livetv.akr4m.com:8080/bdtv/restrem/8.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QMErcyF.png" group-title="BDiX",MU TV
-http://162.4.112.81/Mu/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QeuJyXH.png" group-title="BDiX",tv9 Bangla
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 https://amg01448-samsungin-tv9bangla-samsungin-9lgnh.amagi.tv/playlist/amg01448-samsungin-tv9bangla-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lgKFmLa.png" group-title="BDiX",NDTV India
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d78c01625c3f4ed98912609799298544:b91bb882f9624872ada6125006fe5c73
+#https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Ndtvindia2/default/manifest.mpd
+https://backupndtvindiaelemarchana.akamaized.net/hls/live/2004134/ndtvindia/master_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/apCV9ye.png" group-title="BDiX",SRK TV
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/tracks-v1a1/mono.m3u8
@@ -431,6 +450,9 @@ https://flussonic.defineatoz.com/rongeentv/mono.m3u8
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/min4HlY.png" group-title="BDiX",CARTOON NETWORK
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9452bb588219504397cc7dfc407356b5:1b3fc29b2616b147ebe119f2c6f9a02a
+https://login.bheem.tv/bpk-tv/22096/output/index.mpd
 http://103.151.60.162:2122/play/a010/index.m3u8
 https://stream.ottplus.live/live/cn_hd_abr/index.m3u8
 https://s3.itcnbd.live/server-2/proxy/ten_cricket/playlist?u=https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8
@@ -448,6 +470,9 @@ https://madanitv.assadikb.workers.dev/live.php?id=1341&e=.m3u8
 http://103.191.99.248:5550/601/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ur2VXBW.png" group-title="BDiX",POGO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=747bbd76538e54aba7b84da4d5dc5aba:bd594239af2c1befc5d117cc72c83f33
+https://login.bheem.tv/bpk-tv/22603/output/index.mpd
 https://s3.itcnbd.live/server-2/proxy/ten_cricket/playlist?u=https://bldcmprod-cdn.toffeelive.com/cdn/live/pogo_sd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://madanitv.assadikb.workers.dev/live.php?id=559&e=.m3u8
@@ -558,6 +583,9 @@ https://s3.itcnbd.live/channel/f1d0db4784370c8b.m3u8
 https://flussonic.defineatoz.com/Eurosport/mono.m3u8
 https://stream.ottplus.live/live/euro_sports_hd_abr/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QMErcyF.png" group-title="BDiX",MU TV
+http://162.4.112.81/Mu/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pooSOJ1.png" group-title="BDiX",beIN SPORTS ñ
 http://103.151.60.162:2122/play/a00t/index.m3u8
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/spo-s5-n/1313533.m3u8
@@ -571,11 +599,20 @@ https://flussonic.defineatoz.com/starsportsselect1/tracks-v1a1/mono.m3u8
 http://livetv.akr4m.com:8080/bdtv/restrem/40.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v4ofXqI.png" group-title="BDiX",TNT SPORTS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d14658a0ede94debcb4013b2056ba6d1:60838a3176127fed0eaf038a5575de11
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vaplpo3app/out/v1/49b4d538ec854efa90d45084866cf7f9/cenc.mpd
+http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/2505/index.m3u8
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/spo-s5-n/1174236.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oWpH2DM.png.png" group-title="BDiX",TSN
 https://tvsen7.aynascope.net/tsn1/index.m3u8
 http://40.160.24.55/TSN_1/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vdph1pr.png" group-title="BDiX",beIN SPORTS
 http://27.124.71.27/beIN_Sports_1/mono.m3u8
