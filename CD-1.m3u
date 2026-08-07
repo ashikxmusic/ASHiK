@@ -289,7 +289,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 http://103.191.99.248:5550/203/mono.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qxEsyBq.png" group-title="BDiX",INDEPENDENT
-
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gusHyO8.png" group-title="BDiX",JAMUNA TELEVISION
@@ -323,6 +322,9 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://ln.run/7MdNi" group-title="BDiX",ASIAN TV
 https://playztv-apps.pages.dev/asian-tv/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rEDyofd.png" group-title="BDiX",JA TV
+http://103.121.61.218/tmp_hls/86b122d4358357d834a87ce618a55de0/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d1HHf07.png" group-title="BDiX",CHANNEL I
 https://playztv-apps.pages.dev/channel-i/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
@@ -333,29 +335,47 @@ https://playztv-apps.pages.dev/channel-9/index.m3u8
 http://livetv.akr4m.com:8080/bdtv/restrem/16.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EgQipc2.png" group-title="BDiX",GREEN TV
+http://103.112.62.220/Green/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9y8Yma3.png" group-title="BDiX",NAGORIK
 https://flussonic.defineatoz.com/backup/tracks-v1a1/mono.m3u8
 http://livetv.akr4m.com:8080/bdtv/restrem/38.m3u8
 http://103.151.61.12/Nagorik_TV/video.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rSJVTuO.png" group-title="BDiX",NRB TV
+http://103.112.62.220/NBR/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X8mcp9d.png" group-title="BDiX",GAZI TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/playlist.m3u8
 https://s3.itcnbd.live/channel/d9cf898d0942e550.m3u8
 http://103.191.99.248:5550/106/mono.m3u8
- 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PLgyHEP.png" group-title="BDiX",NEWS 21
+http://103.190.133.68:1935/news21live/live/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eXnR0vj.png" group-title="BDiX",DEEPTO TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/goIC3iw.png" group-title="BDiX",MOVIE BANGLA
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JV22IEz.png" group-title="BDiX",USBD TV
+http://103.112.62.220/US-BD/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gHCbYTC.png" group-title="BDiX",RAJDHANI
 http://116.193.222.51/hls5/rajdhanicable.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8uyfD1V.png" group-title="BDiX",CHANNEL 16
+http://103.121.61.218/tmp_hls/f64eac11f2cd8f0efa196f8ad173178e/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gZIdnwP.png" group-title="BDiX",BANGLA TV
 http://116.204.149.16/banglatv/index.m3u8
 https://cdn.ghuddi.live/Bangla_TV/Bangla_TV_BD/playlist.m3u8
 http://livetv.akr4m.com:8080/bdtv/restrem/8.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QMErcyF.png" group-title="BDiX",MU TV
+http://162.4.112.81/Mu/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QeuJyXH.png" group-title="BDiX",tv9 Bangla
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
@@ -542,6 +562,9 @@ https://stream.ottplus.live/live/euro_sports_hd_abr/index.m3u8
 http://103.151.60.162:2122/play/a00t/index.m3u8
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/spo-s5-n/1313533.m3u8
 https://bein-esp-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u5ZGGpI.png" group-title="BDiX",SuperSport Football
+http://162.4.112.81/fotboll/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7KmhHRq.png" group-title="BDiX",STAR SELECT 1
 https://flussonic.defineatoz.com/starsportsselect1/tracks-v1a1/mono.m3u8
