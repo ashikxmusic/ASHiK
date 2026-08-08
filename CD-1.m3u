@@ -255,6 +255,7 @@ http://103.151.61.12/SUN_BANGLA/tracks-v1a1/mono.m3u8
 http://162.4.112.81/JALSHA-MOVIES-HD/index.mpd
 http://livetv.akr4m.com:8080/bdtv/restrem/27.m3u8
 http://103.191.99.248:5550/303/mono.m3u8
+http://line.umetop.pro:80/play/live.php?mac=00:1A:79:8F:BA:8A&stream=225776&extension=m3u8
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://madanitv.assadikb.workers.dev/live.php?id=1120&e=.m3u8
 http://103.151.60.188:1111/Star_Jalsha/mono.m3u8
