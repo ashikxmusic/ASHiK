@@ -605,7 +605,7 @@ http://40.160.24.55/TSN_1/index.m3u8
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vdph1pr.png" group-title="BDiX",beIN SPORTS
-http://103.151.60.190/hls/tab_2vzrd8e/index.m3u8
+http://103.15.140.140/beinsports/mono.m3u8
 http://27.124.71.27/beIN_Sports_1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YYgIsLd.png" group-title="BDiX",FOX SPORTS
